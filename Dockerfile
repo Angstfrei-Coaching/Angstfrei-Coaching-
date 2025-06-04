@@ -1,1 +1,2 @@
-FROM gcr.io/google.com/cloud-tagging/gtm-server:latest
+FROM ghcr.io/gtm-servers/gtm-server:latest
+
